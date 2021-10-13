@@ -1,0 +1,10 @@
+c:\users\©™®furkan™©\documents\visual studio 2015\Projects\AutoLoginSettings_\AutoLoginSettings_\bin\Debug\AutoLoginSettings_.exe.config
+c:\users\©™®furkan™©\documents\visual studio 2015\Projects\AutoLoginSettings_\AutoLoginSettings_\bin\Debug\AutoLoginSettings_.exe
+c:\users\©™®furkan™©\documents\visual studio 2015\Projects\AutoLoginSettings_\AutoLoginSettings_\bin\Debug\AutoLoginSettings_.pdb
+c:\users\©™®furkan™©\documents\visual studio 2015\Projects\AutoLoginSettings_\AutoLoginSettings_\obj\Debug\AutoLoginSettings_.csprojResolveAssemblyReference.cache
+c:\users\©™®furkan™©\documents\visual studio 2015\Projects\AutoLoginSettings_\AutoLoginSettings_\obj\Debug\AutoLoginSettings_.Form1.resources
+c:\users\©™®furkan™©\documents\visual studio 2015\Projects\AutoLoginSettings_\AutoLoginSettings_\obj\Debug\AutoLoginSettings_.Properties.Resources.resources
+c:\users\©™®furkan™©\documents\visual studio 2015\Projects\AutoLoginSettings_\AutoLoginSettings_\obj\Debug\AutoLoginSettings_.csproj.GenerateResource.Cache
+c:\users\©™®furkan™©\documents\visual studio 2015\Projects\AutoLoginSettings_\AutoLoginSettings_\obj\Debug\AutoLoginSettings_.exe
+c:\users\©™®furkan™©\documents\visual studio 2015\Projects\AutoLoginSettings_\AutoLoginSettings_\obj\Debug\AutoLoginSettings_.pdb
+c:\users\©™®furkan™©\documents\visual studio 2015\Projects\AutoLoginSettings_\AutoLoginSettings_\obj\Debug\AutoLoginSettings_.Setup.resources

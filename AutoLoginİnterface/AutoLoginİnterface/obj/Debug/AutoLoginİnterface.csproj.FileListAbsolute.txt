@@ -1,0 +1,9 @@
+c:\users\©™®furkan™©\documents\visual studio 2015\Projects\AutoLoginİnterface\AutoLoginİnterface\bin\Debug\AutoLoginİnterface.exe.config
+c:\users\©™®furkan™©\documents\visual studio 2015\Projects\AutoLoginİnterface\AutoLoginİnterface\bin\Debug\AutoLoginİnterface.exe
+c:\users\©™®furkan™©\documents\visual studio 2015\Projects\AutoLoginİnterface\AutoLoginİnterface\bin\Debug\AutoLoginİnterface.pdb
+c:\users\©™®furkan™©\documents\visual studio 2015\Projects\AutoLoginİnterface\AutoLoginİnterface\obj\Debug\AutoLoginİnterface.csprojResolveAssemblyReference.cache
+c:\users\©™®furkan™©\documents\visual studio 2015\Projects\AutoLoginİnterface\AutoLoginİnterface\obj\Debug\AutoLoginİnterface.Form1.resources
+c:\users\©™®furkan™©\documents\visual studio 2015\Projects\AutoLoginİnterface\AutoLoginİnterface\obj\Debug\AutoLoginİnterface.Properties.Resources.resources
+c:\users\©™®furkan™©\documents\visual studio 2015\Projects\AutoLoginİnterface\AutoLoginİnterface\obj\Debug\AutoLoginİnterface.csproj.GenerateResource.Cache
+c:\users\©™®furkan™©\documents\visual studio 2015\Projects\AutoLoginİnterface\AutoLoginİnterface\obj\Debug\AutoLoginİnterface.exe
+c:\users\©™®furkan™©\documents\visual studio 2015\Projects\AutoLoginİnterface\AutoLoginİnterface\obj\Debug\AutoLoginİnterface.pdb
