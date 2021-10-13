@@ -10,9 +10,9 @@
 
 ## Installation
 
-1 - You need to start with AutoLoginSettings_
-2 - Let me make the first start with AutoLoginProject
-3 - You can see on your system when you restart your PC
+- You need to start with AutoLoginSettings_
+- Let me make the first start with AutoLoginProject
+- You can see on your system when you restart your PC
 
 
 ## License
