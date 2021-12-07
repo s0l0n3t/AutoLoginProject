@@ -1,5 +1,5 @@
 <h1 align="center">AutoLoginProject</h1>
-## _Project of Auto login UI_
+## Project of auto login UI
 
 ### Features
 
