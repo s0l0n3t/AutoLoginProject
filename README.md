@@ -17,4 +17,4 @@
 
 ## License
 
-Its free :)
+<h3 align="center">It's FREE :)</h1>
