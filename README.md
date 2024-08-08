@@ -15,8 +15,3 @@
 - You need to start with AutoLoginSettings_
 - Let me make the first start with AutoLoginProject
 - You can see on your system when you restart your PC
-
-
-### License
-
-<h3 align="center">It's FREE :)</h1>
