@@ -6,7 +6,7 @@
 
 ### Features
 
-- You can login to any OS as secure
+- You can't use the system without login
 - Easy registration
 - Basic UI
 
